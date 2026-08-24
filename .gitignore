@@ -1,0 +1,8 @@
+# Emotion Music 3D
+node_modules/
+dist/
+__pycache__/
+*.db
+*.log
+.env
+.DS_Store

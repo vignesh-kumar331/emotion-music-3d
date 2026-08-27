@@ -1,6 +1,10 @@
 # Emotion Music Companion — AI-Powered Emotion-Based Music Recommendation
 
-Implementation of Master System Prompt v1.0 (56 sections). Engineering choices left to team are resolved as: **FastAPI + SQLAlchemy + SQLite/Postgres + MockMusicProvider adapter + React/Vite**.
+**Live:** `https://vignesh-kumar331.github.io/emotion-music-3d/` · **Repo:** `https://github.com/vignesh-kumar331/emotion-music-3d` · **API Docs (local):** `http://127.0.0.1:8001/docs`
+
+Implementation of Master System Prompt v1.0 (56 sections). Engineering choices left to team are resolved as: **FastAPI + SQLAlchemy + SQLite/Postgres + iTunes Search API (free, original studio previews) + React/Vite + Three.js 3D orb**.
+
+> **Update:** Demo SoundHelix removed — **all 24 emotions now use original studio songs** via free iTunes API (30s previews, artwork, Tamil + English) + YouTube fallback. No demo/ringtone.
 
 ## Architecture per spec §38
 
